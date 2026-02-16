@@ -17,3 +17,4 @@ Scripts descriptiions :
 - 12-file_type: print the type of the file named iamafile
 - 13-symbolic_link: create a symbolic link to /bin/ls named __ls__
 - 14-copy_html: copy all the html in the current directory to the parent directory- 15-lets_move: move all files begining with an uppercase lettre to the directory /tmp/u
+- 16-clean_emacs: delete all files in the current working directory that ends with ~

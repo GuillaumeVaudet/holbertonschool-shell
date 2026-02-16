@@ -16,3 +16,4 @@ Scripts descriptiions :
 - 11-lists: list all files in the current directory and the parent of the working directory and the /boot
 - 12-file_type: print the type of the file named iamafile
 - 13-symbolic_link: create a symbolic link to /bin/ls named __ls__
+- 14-copy_html: copy all the html in the current directory to the parent directory
